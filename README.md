@@ -1,6 +1,6 @@
   
-<!-- [![MasterHead](https://github.com/Akshay090/svg-banners/blob/master/SVG/origin/origin.svg) -->
-[![Vishwajeet](https://svg-banners.vercel.app/api?type=origin&text1=Vishwajeet%20Patel%20🤠&text2=💖%20Call%20%20me%20Ritz&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![MasterHead](https://github.com/Akshay090/svg-banners/blob/master/SVG/origin/origin.svg)
+[![Vishwajeet](https://svg-banners.vercel.app/api?type=origin&text1=Vishwajeet%20Patel%20🤠&text2=💖%20Call%20%20me%20Vishu&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishwajeet Patel</h1>
 <h3 align="center">A passionate about AI and Data Science </h3>
 <img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -20,7 +20,7 @@
 <p align="left">
 <!-- <a href="https://www.codechef.com/users/ritz_897949" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritz_897949" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/@rythemsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rythemsharma21" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/vishu_161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rythem" height="30" width="40" /></a>
+<a href="https://leetcode.com/vishu_161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishwajeet" height="30" width="40" /></a>
 <!-- <a href="https://auth.geeksforgeeks.org/user/user_r0tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_r0tv" height="30" width="40" /></a> -->
 </p>
 
