@@ -1,6 +1,6 @@
   
 <!-- [![MasterHead](https://github.com/Akshay090/svg-banners/blob/master/SVG/origin/origin.svg) -->
-[![Rythem](https://svg-banners.vercel.app/api?type=origin&text1=Rythem%20Sharma%20🤠&text2=💖%20Call%20%20me%20Ritz&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Vishwajeet](https://svg-banners.vercel.app/api?type=origin&text1=Rythem%20Sharma%20🤠&text2=💖%20Call%20%20me%20Ritz&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishwajeet Patel</h1>
 <h3 align="center">A passionate about AI and Data Science </h3>
 <img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -12,11 +12,11 @@
 
 - 📫 How to reach me **vishwajeet.patel161@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rythem-sharma/overlay/1635531675974/single-media-viewer/?profileId=ACoAADFyOkABWYT7h1hZ6HkOxTPee9deuc8C3B0](https://www.linkedin.com/in/rythem-sharma/overlay/1635531675974/single-media-viewer/?profileId=ACoAADFyOkABWYT7h1hZ6HkOxTPee9deuc8C3B0)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vishwajeet-patel-a20531218/details/featured/1635534836264/single-media-viewer/?profileId=ACoAADblO3gButN1M__bMGcMNV1bnPni3Okn8mw](https://www.linkedin.com/in/vishwajeet-patel-a20531218/details/featured/1635534836264/single-media-viewer/?profileId=ACoAADblO3gButN1M__bMGcMNV1bnPni3Okn8mw)
 
 - ⚡ Certitude **I see my self as a forever learner.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.codechef.com/users/ritz_897949" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritz_897949" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rythemsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rythemsharma21" height="30" width="40" /></a>
