@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://github.com/Akshay090/svg-banners/blob/master/SVG/origin/origin.svg)-->
-[![Vishwajeet](https://svg-banners.vercel.app/api?type=origin&text1=Vishwajeet%20Patel%20🤠&text2=💖%20Call%20%20me%20Vishu&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Vishwajeet](https://svg-banners.vercel.app/api?type=origin&text1=Vishwajeet%20Patel%20🤠&text2=%20Call%20%20me%20Vishu&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishwajeet Patel</h1>
 <h3 align="center">A passionate about AI and Data Science </h3>
 <img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
