@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 - 🔭 I’m currently working on **Distributed Systems**
 
-- 🌱 I’m currently learning **Networking, ReactJs, NLP**
+- 🌱 I’m currently learning **NLP, GAN**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
