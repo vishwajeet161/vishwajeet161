@@ -121,11 +121,10 @@ currently:
   </picture>
 </div>
 
-> 💡 **To enable the snake animation**, add a GitHub Action in `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) and push output to your profile repo.
 
 ---
 
-## 🔥 Featured Projects
+<!--## 🔥 Featured Projects
 
 <div align="center">
 
@@ -138,7 +137,8 @@ currently:
 
 </div>
 
-> 📌 *Update project links to point to your actual repositories.*
+>
+-->
 
 ---
 
