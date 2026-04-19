@@ -13,6 +13,10 @@ on:
     branches:
       - main
 
+# ✅ Fix: grant write access so the action can push to the output branch
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: 🐍 Generate GitHub Contribution Snake
@@ -22,7 +26,7 @@ jobs:
     steps:
       # Step 1: Check out the repo
       - name: 📥 Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4          # ✅ Updated: v3 → v4 (Node.js 24 compatible)
 
       # Step 2: Generate the snake SVG animations
       - name: 🎨 Generate Snake SVG
@@ -35,7 +39,7 @@ jobs:
 
       # Step 3: Push the generated files to the `output` branch
       - name: 🚀 Push Output to `output` Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4   # ✅ Updated: v3 → v4 (Node.js 24 compatible)
         with:
           target_branch: output
           build_dir: dist
